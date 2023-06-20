@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "api&asinio"
+version = "0.1.0"
+description = ""
+authors = ["remmover <77463027+remmover@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "~3.11.3"
+names = "~0.3.0"
+aiofile = "~3.8.7"
+aiopath = "~0.6.11"
+websockets = "~11.0.3"
+aiohttp = "~3.8.4"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

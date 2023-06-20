@@ -1,0 +1,5 @@
+2023-06-19 19:23:16: Command executed: exchange 3 KZT
+2023-06-19 19:24:51: Command executed: exchange 3 RON
+2023-06-19 19:25:20: Command executed: exchange 3 XAU
+2023-06-19 19:31:40: Command executed: exchange 2
+2023-06-20 12:59:15: Command executed: exchange 3 KZT
