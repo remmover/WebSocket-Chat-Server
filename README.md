@@ -2,26 +2,13 @@
 
 This program is a WebSocket-based chat server written in Python. It allows multiple clients to connect and communicate with each other using the WebSocket protocol. The server also integrates with a banking service to process and respond to specific commands related to banking transactions and currency exchange rates.
 
-## Prerequisites
-
-To run this program, you need the following:
-
-- Python 3.7 or higher
-- `asyncio`, `logging`, `pprint` modules
-- `names` library
-- `aiofile` library
-- `aiopath` library
-- `websockets` library
-- `chat_commands` module (which contains the `bank` class)
-- `argparse`, `datetime`, `aiohttp` libraries (for currency exchange feature)
-
 ## Installation
-
-1. Clone this repository to your local machine or download the source code files.
-2. Make sure you have the required dependencies installed.
-3. Open a terminal or command prompt and navigate to the project directory.
-4. Run the following command to start the chat server:
-
+1. Clone the repository or download the source code files.
+2. Open a terminal or command prompt and navigate to the directory where the program files are located.
+3. Run the following command to install the project dependencies using Poetry:
+   ```
+   poetry install
+   ```
    ```
    python server.py
    ```
