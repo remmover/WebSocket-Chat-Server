@@ -3,3 +3,5 @@
 2023-06-19 19:25:20: Command executed: exchange 3 XAU
 2023-06-19 19:31:40: Command executed: exchange 2
 2023-06-20 12:59:15: Command executed: exchange 3 KZT
+2023-06-21 12:27:43: Command executed: exchange 
+2023-06-21 12:28:52: Command executed: exchange 3 
